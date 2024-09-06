@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Prime number checker\bin\Debug\net8.0\Prime number checker.exe
+D:\Programmering\Programmering\Prime number checker\bin\Debug\net8.0\Prime number checker.deps.json
+D:\Programmering\Programmering\Prime number checker\bin\Debug\net8.0\Prime number checker.runtimeconfig.json
+D:\Programmering\Programmering\Prime number checker\bin\Debug\net8.0\Prime number checker.dll
+D:\Programmering\Programmering\Prime number checker\bin\Debug\net8.0\Prime number checker.pdb
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.AssemblyInfo.cs
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.dll
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\refint\Prime number checker.dll
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.pdb
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\Prime number checker.genruntimeconfig.cache
+D:\Programmering\Programmering\Prime number checker\obj\Debug\net8.0\ref\Prime number checker.dll
